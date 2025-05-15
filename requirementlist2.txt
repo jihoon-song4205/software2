@@ -1,0 +1,23 @@
+1.
+requirement : 비회원이 회원 등록을 하는 기능을 제공한다.
+usecase : 회원가입
+
+2.
+requirement : 시스템 이용자가 ID와 비밀번호를 입력하여 로그인하여 시스템을 이용한다.
+usecase : 로그인
+
+3.
+requirement : 시스템 이용자가 로그아웃 시 시스템 접속을 종료한다
+usecase : 로그아웃
+
+4.
+requirement : 회원이 특정 자전거를 대여하는 기능을 제공한다.
+usecase : 자전거 대여
+
+5.
+requirement : 회원이 현재 대여 중인 자전거를 조회하는 기능을 제공한다.
+usecase : 자전거 대여 정보 조회
+
+6.
+requirement : 관리자가 자전거 정보를 등록하는 기능을 제공한다.
+usecase : 자전거 정보 등록
