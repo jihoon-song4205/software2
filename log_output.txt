@@ -1,2 +1,7 @@
+[jihoon-song4205] Mon May 19 02:46:34 2025 +0900 communication diagram, class diagram 초본 a087bcb
+[jihoon-song4205] Sat May 17 22:15:56 2025 +0900 usecase description 변경 9d75945
+[jihoon-song4205] Sat May 17 22:01:09 2025 +0900 usecase description.docx 5631ea9
+[jihoon-song4205] Fri May 16 00:33:44 2025 +0900 usecase diagram 6a86688
+[jihoon-song4205] Fri May 16 00:30:23 2025 +0900 requirementlist a05db90
 [jihoon-song4205] Wed May 14 16:00:27 2025 +0900 github test 2944dc0
 [jihoon-song4205] Wed May 14 15:57:28 2025 +0900 Initial commit 0750eba
